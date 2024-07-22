@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1iOapDaJUpfgsO_icdOkUpiQjmS1RkO11
 """
 
-pip install streamlit langchain transformers
 
 import streamlit as st
 from transformers import pipeline
